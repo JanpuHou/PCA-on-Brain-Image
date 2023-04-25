@@ -1,7 +1,6 @@
 # PCA-on-Brain-Image
 
-# Mathematics Behind PCA!
-
+## Mathematics Behind PCA:
 PCA can be thought of as an unsupervised learning problem. 
 
 1. Compute the mean for every dimension of the whole dataset.
